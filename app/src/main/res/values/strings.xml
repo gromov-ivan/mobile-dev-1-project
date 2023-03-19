@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Facts App</string>
+    <string name="mainTextView">Do you like random facts?</string>
+    <string name="mainBtnExplore">Yes!</string>
+    <string name="buttonNewFact">New Fact</string>
+    <string name="buttonSearchFact">Search on Google</string>
+    <string name="mainImageView" translatable="false">mainImageView</string>
+    <string name="btn_lang" translatable="false">EN/RU</string>
+</resources>

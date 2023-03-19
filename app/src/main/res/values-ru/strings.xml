@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Facts App</string>
+    <string name="mainTextView">Любите рандомные факты?</string>
+    <string name="mainBtnExplore">Да!</string>
+    <string name="buttonNewFact">Новый Факт</string>
+    <string name="buttonSearchFact">Найти в Google</string>
+    <string name="mainImageView">mainImageView</string>
+    <string name="btn_lang">EN/RU</string>
+</resources>
