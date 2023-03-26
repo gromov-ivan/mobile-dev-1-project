@@ -1,2 +1,2 @@
-## mobile-dev-1-project
+## Random Facts App
 Project repository for Mobile Development course
