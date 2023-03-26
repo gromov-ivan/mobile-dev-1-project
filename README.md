@@ -1,2 +1,3 @@
 ## Random Facts App
-Project repository for Mobile Development course
+
+Android application which utilizes REST API and shows various randowm facts.
